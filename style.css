@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #c8cacc;
+    color: rgb(33, 37, 41);
+    align-items: center;
+
+}
+header{
+    background-image: url("imagens/capalinux.png");
+    background-size: cover;
+    background-position:center;
+    height: 400px;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 80px;
+    line-height: 10px;
+}
+h2{
+    font-size: 20px;
+}
+#deh{
+    margin: -110px 30px 20px;
+    border-radius: 100%;
+}
+#name{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    text-align: center;
+  
+}
+
+#hab, #faço, #section-about{
+    padding: 20px;
+}
+
+#faço{
+    text-decoration: none;
+}
