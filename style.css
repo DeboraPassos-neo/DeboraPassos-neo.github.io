@@ -7,16 +7,15 @@ body{
     background-color: #c8cacc;
     color: rgb(33, 37, 41);
     align-items: center;
-
-
 }
+
 header{
     background-image: url("imagens/capalinux.png");
     background-size: cover;
     background-position:center;
-    height: 400px;
-    
+    height: 400px; 
 }
+
 h1{
     font-family: Arial, Helvetica, sans-serif;
     color: bisque;
@@ -25,23 +24,26 @@ h1{
     font-size: 80px;
     line-height: 10px;
 }
+
 h2{
     font-size: 30px;
     text-align: center;
 }
+
 #deh{
     margin: 60px 30px 20px;
     border-radius: 100%;
     float: left;
 }
+
 #name{
     text-decoration: none;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 300;
-    text-align: center;
-  
+    text-align: center; 
 }
+
 #section-about{
     color: bisque;
     font-size: 18px;
@@ -52,16 +54,17 @@ h2{
 #list_skill, #list_link, #list_itens{
     padding: 20px 30px 20px 30px;
 }
+
 .skill{
     display: inline-block;
-    
-
 }
+
 .item, .skill{
     padding-left: 30px;
     font-size: 20px;
     text-decoration: none;
 }
+
 #list_skill{
     padding: 50px;
 }
@@ -73,9 +76,8 @@ h2{
     padding: 25px;
     margin-left: 30px;
 }
-.impar:hover{
-    
-}
+
+
 
 
 
